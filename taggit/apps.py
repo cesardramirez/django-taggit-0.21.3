@@ -4,4 +4,4 @@ from django.utils.translation import ugettext_lazy as _
 
 class TaggitAppConfig(BaseConfig):
     name = 'taggit'
-    verbose_name = _('Restrictors')
+    verbose_name = _('Restrictores')
